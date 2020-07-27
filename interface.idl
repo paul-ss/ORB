@@ -1,0 +1,4 @@
+interface SendData {
+  void putChar(in char msg);
+};
+
